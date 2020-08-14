@@ -1,6 +1,6 @@
-# Programming Language Selector
+# Programming Language Suggester
 
-#### Programming Language Selector, 08-14-2020
+#### Programming Language Suggester, 08-14-2020
 
 #### By Drew Lockhart
 
