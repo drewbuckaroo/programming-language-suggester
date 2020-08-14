@@ -10,13 +10,11 @@ This application is designed to help the curious user try to decide which progra
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* Open index.html file in web browser
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+* Follow link to GitHub repository
+* https://github.com/drewbuckaroo/programming-language-suggester
+* Clone repository to desktop
+* Open folder in VS Code
+* Click 'Go Live' in VS Code to interact with the app in web browser
 
 ## Known Bugs
 
