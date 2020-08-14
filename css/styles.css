@@ -1,5 +1,49 @@
+body {
+    background-image: url(/img/tv.jpg)
+
+}
+
+p, h2 {
+    color:lawngreen;
+    border: 20px double lawngreen;
+    padding: 10px;
+    background-color:black;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 75%;
+    box-sizing: border-box; 
+
+}
+
+.radio1, .radio2, .radio3, .radio4, .radio5, h4 {
+    color:lawngreen;
+    border: 5px solid lawngreen;
+    padding: 10px;
+    background-color:black;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 75%;
+    box-sizing: border-box;
+}
+
+
+
 .ruby, .c, .python {
     display:block;
     display:none;
     
+}
+
+h1 {
+    color:lawngreen;
+    border: 20px double lawngreen;
+    padding: 10px;
+    background-color:black;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 75%;
+    box-sizing: border-box; 
 }
